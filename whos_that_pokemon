@@ -7,7 +7,6 @@
 # when we open the application on the emulator we will find a page with input field and button (GUESS) 
 # from the challenge name we can understand that we need to find pokemon name
 
-![image] 
 
 I prefer to use jadx or jadx-gui to understand the application 
 
